@@ -1,7 +1,7 @@
 name: Auto Deploy
 title: Baked with Awestruct
 org: Organization
-base_url: ''
+base_url: 'auto-deploy'
 profiles:
   production:
     base_url: http://atelierbram.github.io/auto-deploy
