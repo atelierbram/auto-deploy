@@ -1,4 +1,6 @@
 require 'zurb-foundation'
+require 'asciidoctor'
+# require 'compass'
 
 Awestruct::Extensions::Pipeline.new do
   # extension Awestruct::Extensions::Posts.new '/news'
