@@ -484,3 +484,4 @@ Next, you configured Awestruct to use the GitHub Pages deployer to build and pub
 Finally, you configured Travis to watch for changes and run the Awestruct deployer with the git credentials and GitHub token you passed to it securely.
 
 *You are blogging like a hacker now!*
+
