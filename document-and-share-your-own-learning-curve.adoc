@@ -1,0 +1,18 @@
+= Document and share your own learning curve 
+Bram de Haan
+:awestruct-layout: default
+:awestruct-show_header: true
+
+Work in progress
+
+== Learning Curve 
+
+Notes for others, or future me, who want to repeat the tricks of this thing
+
+=== External
+
+* http://awestruct.org/getting_started/[Awestruct - getting started] 
+* https://github.com/awestruct/awestruct.org/blob/master/auto-deploy-to-github-pages.adoc[Guide for Awestruct: auto deploy to github pages]
+* https://travis-ci.org/[Travis]
+* https://github.com/travis-ci/travis-ci[Travis on Github]
+* http://www.tedxamsterdam.com/2011/joris-luyendijk-make-the-world-understandable/[TED Talk by Joris Luyendijk: Share your learning curve]
