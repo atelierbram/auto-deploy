@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+- 1.9.3
+branches:
+  only:
+  - develop
+script: rake travis
+env:
+  global:
+  - secure: "KPjSIAV+PyNGQ3AnlKqUN5aIXXME+1hBKzqaWZt+sYgrSJXZgsoJjJ3XGB4x7dbCqRVE6GmFD4zijBFwCOa4s8mSxfqd7bnatrj9WpvxNPq1PRXbKfkQobAAPQS8723DcggKXrXSTGuf1oVrshvkKofOWTwWQIn5sjikSd87hYg="
