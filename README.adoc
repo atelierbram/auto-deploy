@@ -3,9 +3,6 @@ Bram de Haan
 :awestruct-layout: default
 :awestruct-show_header: true
 
-Follow https://github.com/awestruct/awestruct.org/blob/master/auto-deploy-to-github-pages.adoc[This guide] that walks you through the steps of publishing a website that is built using http://awestruct.org[Awestruct] to http://pages.github.com[GitHub Pages] from http://travis-ci.org[Travis CI], 'automatically!'
+Follow https://github.com/awestruct/awestruct.org/blob/master/auto-deploy-to-github-pages.adoc[This guide] that walks you through the steps of publishing a website that is built using http://awestruct.org[Awestruct] to http://pages.github.com[GitHub Pages] from http://travis-ci.org[Travis CI], 'automatically'.
 
-This page is http://atelierbram.github.io/auto-deploy/[living proof]. 
-
-
- 
+http://atelierbram.github.io/auto-deploy/[Result on github.io - gh-pages].  
