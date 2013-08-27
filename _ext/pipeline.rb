@@ -1,5 +1,5 @@
 require 'zurb-foundation'
-require 'asciidoctor'
+# require 'asciidoctor'
 # require 'compass'
 
 Awestruct::Extensions::Pipeline.new do

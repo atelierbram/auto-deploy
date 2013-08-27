@@ -1,5 +1,5 @@
-name: Project Name
-title: Baked with Awestruct
+name: Auto Deploy
+title: Publish a website that is built using Awestruct to GitHub Pages
 org: Organization
 base_url: ''
 profiles:
